@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+*.bak
+*.bak_*
+.vscode/
+.idea/
+*.elf
+*.bin
+*.map
+build/
+.pio/
+.arduino/
+__pycache__/
+*.pyc
